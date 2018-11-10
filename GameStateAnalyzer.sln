@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateAnalyzer", "GameStateAnalyzer\GameStateAnalyzer.csproj", "{B44C55A8-C670-44B1-B1E8-0E4FF308F075}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor", "ImageProcessor\ImageProcessor.csproj", "{D1392BF7-F7F4-4385-8A40-177E696EC509}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B44C55A8-C670-44B1-B1E8-0E4FF308F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B44C55A8-C670-44B1-B1E8-0E4FF308F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B44C55A8-C670-44B1-B1E8-0E4FF308F075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1392BF7-F7F4-4385-8A40-177E696EC509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1392BF7-F7F4-4385-8A40-177E696EC509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1392BF7-F7F4-4385-8A40-177E696EC509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1392BF7-F7F4-4385-8A40-177E696EC509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
